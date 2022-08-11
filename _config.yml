@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repository: git@github.com:Original-g0d/nmslcnm.github.io.git
+  branch: main
